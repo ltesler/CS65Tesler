@@ -1,4 +1,4 @@
-Project Name,Writing,Cinematography,Directing,Original Score,Acting,Editing,Sound,Special Effects,Art Direction,Phase,NonMemPct,MemPct,AudncPct,Round,Ballots,CrewCount,Writer,Cinematographer,Directing
+﻿Project Name,Writing,Cinematography,Directing,Original Score,Acting,Editing,Sound,Special Effects,Art Direction,Phase,NonMemPct,MemPct,AudncPct,Round,Ballots,CrewCount,Writer,Cinematographer,Director
 A Sonic Indulgence,0.00%,1.53%,2.33%,18.95%,0.77%,5.43%,14.18%,0.00%,3.13%,1,17.20%,29.32%,22.84%,37,176,19,Leo Maselli,Bob Sitzwohl,"Jason Fassler, Jim Schuyler"
 Deepwater,21.32%,16.88%,15.55%,7.11%,16.10%,14.74%,11.03%,2.34%,10.17%,2,15.71%,16.15%,15.99%,37,176,80,Dana Moe,Alisha McCutcheon,Dana Moe
 Flowers in her Hair,2.28%,0.77%,2.33%,0.79%,4.60%,2.33%,0.00%,0.78%,5.47%,2,3.85%,5.44%,4.87%,37,176,73,Tony Jonick,Alisha McCutcheon,Tony Jonick
@@ -42,7 +42,7 @@ Poster Boy,26.04%,13.41%,22.60%,55.94%,16.38%,23.51%,19.83%,28.38%,19.07%,2,29.1
 Ride or Shine,10.04%,7.58%,18.05%,14.86%,16.03%,8.77%,11.72%,8.20%,7.04%,1,30.09%,28.27%,29.47%,34,218,23,Ayanna Ziegler,jack,Ayanna Ziegler
 Snaggletooth,29.44%,61.21%,43.97%,13.20%,39.55%,37.12%,44.62%,37.21%,57.80%,2,41.95%,37.17%,38.52%,34,218,37,Colin Bishop,Stephen Berke,Colin Bishop
 Sympathy on a Platter,15.39%,2.07%,5.77%,3.71%,10.68%,6.58%,2.93%,4.47%,1.41%,1,37.81%,38.10%,37.91%,34,218,27,Scotty Cornfield,Alisha McCutcheon,Scotty Cornfield
-106°  F,3.00%,5.12%,4.68%,5.94%,2.66%,4.42%,5.18%,0.78%,1.62%,1,14.52%,10.43%,11.38%,33,316,39,Alexey Samsonov,Stephen Berke,Alexey Samsonov
+106¬∞  F,3.00%,5.12%,4.68%,5.94%,2.66%,4.42%,5.18%,0.78%,1.62%,1,14.52%,10.43%,11.38%,33,316,39,Alexey Samsonov,Stephen Berke,Alexey Samsonov
 A Thief in the Night,0.38%,6.31%,0.39%,1.58%,0.00%,2.41%,5.98%,14.91%,4.85%,1,7.12%,4.17%,4.86%,33,316,19,Justin Simonetti,Noah Ambrose,Justin Simonetti
 Jacob & Malika,12.38%,14.58%,10.53%,11.09%,7.97%,10.84%,10.37%,4.32%,6.88%,1,16.99%,16.01%,16.24%,33,316,47,Vahan Bedelian,Chris Rasmussen,Vahan Bedelian
 Just Kidding,9.07%,3.36%,8.32%,6.19%,15.11%,6.85%,4.54%,2.79%,2.88%,2,9.75%,20.97%,17.73%,33,316,64,Ed Negiar,Alisha McCutcheon,Ed Negiar
@@ -135,7 +135,7 @@ Trans Justice,3.14%,1.19%,0.81%,1.40%,0.40%,2.88%,1.79%,0.00%,0.44%,2,15.53%,14.
 As Seen On TV!,14.52%,17.14%,18.42%,17.75%,19.64%,12.56%,13.02%,8.00%,29.57%,1,16.60%,21.90%,18.05%,26,356,42,Joe Sikoryak,Owen Tomlins,Joe Sikoryak
 Focus,14.18%,18.17%,15.11%,9.86%,21.13%,24.01%,13.39%,8.96%,21.44%,1,24.55%,31.57%,26.47%,26,356,49,John Paul Montgomery,Stephen Berke,John Paul Montgomery
 Friend Request,4.05%,3.77%,2.95%,1.18%,4.82%,1.11%,2.23%,0.64%,2.22%,1,3.36%,2.19%,3.04%,26,356,15,Jim Skinner,Jim Skinner,Jim Skinner
-Grandmama Tlzédeczkanü Comes to America,25.32%,1.71%,2.21%,3.95%,1.11%,7.76%,4.84%,1.60%,8.13%,1,14.88%,20.80%,16.50%,26,356,5,Tony Jonick,Tony Jonick,Tony Jonick
+Grandmama Tlz√©deczkan√º Comes to America,25.32%,1.71%,2.21%,3.95%,1.11%,7.76%,4.84%,1.60%,8.13%,1,14.88%,20.80%,16.50%,26,356,5,Tony Jonick,Tony Jonick,Tony Jonick
 Guilt,17.90%,9.94%,22.84%,20.12%,15.57%,10.34%,16.37%,3.52%,5.54%,1,19.20%,7.30%,15.95%,26,356,43,Dana Moe,Alisha McCutcheon,Dana Moe
 Home is a Hotel,5.47%,13.89%,5.97%,3.20%,1.00%,11.97%,5.53%,0.86%,1.00%,2,53.33%,61.59%,58.66%,26,356,11,Kevin Wong,Rowan Brooks,Kevin Wong
 Into the Fear,1.69%,1.37%,2.21%,3.16%,1.11%,1.85%,1.12%,0.64%,1.11%,1,2.06%,0.73%,1.69%,26,356,10,Andy Bays,Andy Bays,Andy Bays
